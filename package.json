@@ -1,0 +1,8 @@
+{
+  "name": "fluxlead-api",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
